@@ -1,0 +1,26 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-contacthost-prod-220042-authRole",
+      "UnauthRoleArn": "arn:aws:iam::260977371207:role/amplify-contacthost-prod-220042-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::260977371207:role/amplify-contacthost-prod-220042-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-contacthost-prod-220042-deployment",
+      "UnauthRoleName": "amplify-contacthost-prod-220042-unauthRole",
+      "StackName": "amplify-contacthost-prod-220042",
+      "StackId": "arn:aws:cloudformation:us-east-1:260977371207:stack/amplify-contacthost-prod-220042/371e8a30-555a-11ee-aecb-0e303b104491",
+      "AmplifyAppId": "d3vgqot0ctrx3d"
+    },
+    "categories": {
+      "auth": {
+        "contacthost5eeabf5a": {}
+      },
+      "storage": {
+        "contactHost": {}
+      },
+      "api": {
+        "contacthost": {}
+      }
+    }
+  }
+}
